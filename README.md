@@ -1,5 +1,8 @@
 # Comprehensive Analysis of Electric Vehicles (EVs) Using Tableau
 
+#### Link of Dashboard :
+-- https://public.tableau.com/shared/ZZZMFMCQB?:display_count=n&:origin=viz_share_link
+
 This project uses Tableau to analyze trends in the electric vehicle (EV) market, focusing on battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs). The analysis provides insights into market growth, technological advancements, and consumer preferences in the EV sector.
 
 ## Dataset
